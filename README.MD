@@ -1,6 +1,6 @@
 # Excursion
 
-## Overview
+### Working with Git Bash & GitHub
     
     1) Make a directory for your website
     2) Add the HTLM and CSS file to the staging area 
